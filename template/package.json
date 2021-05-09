@@ -4,6 +4,8 @@
     "description": "{{ description }}",
     "author": "{{ author }}",
     "private": true,
+    "devDependencies": {},
+    "dependencies": {},
     "engines": {
         "node": ">= 6.0.0",
         "npm": ">= 3.0.0"
