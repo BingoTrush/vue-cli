@@ -1,0 +1,21 @@
+{
+    "name": "followme-cli-template-crm",
+    "version": "1.0.0",
+    "description": "A full-featured CRM Project",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BingoTrush/vue-cli.git"
+    },
+    "keywords": [
+        "followme"
+    ],
+    "author": "Trush",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BingoTrush/vue-cli/issues"
+    },
+    "homepage": "https://github.com/BingoTrush/vue-cli#readme"
+}
