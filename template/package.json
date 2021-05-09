@@ -6,6 +6,10 @@
     "private": true,
     "devDependencies": {},
     "dependencies": {},
+    "scripts": {
+        "dev": "node src/main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
     "engines": {
         "node": ">= 6.0.0",
         "npm": ">= 3.0.0"
